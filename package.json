@@ -1,0 +1,27 @@
+{
+  "name": "adelktr-random-grades",
+  "version": "1.0.0",
+  "description": "Make your students hate you",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adelktr/open-source-td5.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Adelktr/open-source-td5/issues"
+  },
+  "homepage": "https://github.com/Adelktr/open-source-td5#readme",
+  "devDependencies": {
+    "eslint": "^8.44.0",
+    "jest": "^29.6.1"
+  },
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0"
+  }
+}
