@@ -1,6 +1,6 @@
 {
   "name": "adelktr-random-grades",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Make your students hate you",
   "main": "index.js",
   "scripts": {
